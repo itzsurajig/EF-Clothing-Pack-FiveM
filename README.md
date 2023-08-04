@@ -1,8 +1,6 @@
 # ef-clothing pack fivem
 # FREE CLOTHING PACK from EF-Production for Your FiveM Server!
 
-Free EUP Pack For Your FiveM Server
-
 
 Join Discord For More Free Scripts<br>
 ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™ : https://discord.gg/WbDp5GQ45t
