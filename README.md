@@ -2,7 +2,8 @@
 # FREE CLOTHING PACK from EF-Production for Your FiveM Server!
 
 
-Join Discord For <h1>Download 〢 ➤ </h1>
+
+Join Discord For Download 〢 ➤
 ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™ : https://discord.gg/WbDp5GQ45t
 
 <h1> Installation </h1>
