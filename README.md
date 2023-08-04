@@ -3,7 +3,7 @@
 
 
 
-Join Discord For Download 〢 ➤
+#Join Discord For Download 〢 ➤
 ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™ : https://discord.gg/WbDp5GQ45t
 
 <h1> Installation </h1>
