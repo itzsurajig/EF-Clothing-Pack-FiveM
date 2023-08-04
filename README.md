@@ -1,5 +1,5 @@
 # ef-clothing
-Free EUP For Your FiveM Server
+Free EUP Pack For Your FiveM Server
 
 
 <h1>Discord〢 ➤ </h1>
@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1F6TOWuoy-BEEePCvh0OPDMsYZKLXkFZh/view?usp=shari
 
 
 <h1> Installation </h1>
-<p> Copy Paste in your server resources </p>
+<p> Copy Paste in your server resources Folder</p>
 <p>Ensure in server config </p>
 <p>Ensure [clothing]</p>
 
