@@ -8,7 +8,7 @@
 
 
 <h1>Join Discord For Download 〢 ➤ </h1>
-ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™ : https://discord.gg/T8EXbag7ET
+ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™ : https://discord.gg/qzsRX7sMjU
 
 <h1> Installation </h1>
 <p> Copy Paste in your server resources Folder</p>
